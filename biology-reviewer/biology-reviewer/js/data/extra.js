@@ -1,0 +1,24 @@
+// Extra atomic ideas merged into existing chunks by name: [moduleIndex, chunkName, facts]. Tier 1 core, 2 supporting, 3 detail.
+window.EX=[
+[0,"Levels",[[2,"Cell","Basic living unit"],[2,"Organism","The whole living thing"],[2,"Multicellular organism","Made of many cells, each specialised for a function"],[2,"Multicellular organization","Cells specialised and arranged to work together and keep the organism alive"]]],
+[0,"Plant growth",[[2,"Meristem","Plant region of continuous cell division; makes new cells for growth"],[3,"Undifferentiated","No specialised features or function yet"],[2,"Where each tissue sits","Meristematic: tips, sides, leaf bases and nodes||Permanent: throughout the plant"]]],
+[0,"Plant tissues",[[2,"Simple plant tissue","One cell type: storage, photosynthesis, support, protection"],[2,"Complex plant tissue","Several cell types cooperating on one function"],[3,"Dermal and ground location","Dermal: outer surface||Ground: internal regions"]]],
+[0,"Connective",[[3,"Cartilage roles","Supports structures, reduces joint friction, cushions"],[3,"Adipose location","Under skin, around kidneys, heart, abdominal organs"],[3,"Loose tissue location","Under skin, around vessels and nerves, between organs"]]],
+[0,"Muscle",[[2,"Skeletal muscle roles","Powers movement, keeps posture, protects organs, makes heat"],[2,"Cardiac muscle role","Contracts rhythmically and continuously to pump blood"]]],
+[1,"Roles",[[2,"Oxygen use","Cells need O₂ for cellular respiration and energy"],[3,"Why CO₂ must leave","Waste product of cell metabolism"],[3,"Cardiovascular","Other name for the circulatory system"]]],
+[1,"Heart and vessels",[[2,"Blood","Transport medium; vessels are its pathways"],[2,"Capillary exchange","O₂, nutrients, CO₂, wastes swap between blood and tissue"]]],
+[1,"Lymphatics",[[3,"Node vs spleen","Nodes filter lymph||Spleen filters blood"]]],
+[1,"Airway and breathing",[[3,"Pharynx","Air passageway"],[3,"Trachea","Carries air toward lungs"],[3,"Bronchi and bronchioles","Bronchi branch from trachea; bronchioles are smaller branches"],[3,"Lungs","Main organs of respiration"]]],
+[2,"Integumentary",[[3,"Exocrine glands","Release secretions through ducts (sweat, oil), unlike endocrine glands"],[2,"Skin as thermostat","Sweat cooling and insulation help control body temperature"]]],
+[2,"Endocrine",[[3,"Hormone targets","Pituitary: bone, muscle||Pancreas: liver, muscle, fat||Thyroid: all cells||Adrenal: heart, muscle||Pineal: brain"]]],
+[2,"Gastrointestinal",[[3,"Ingestion","Taking food in"],[3,"Digestion","Breaking food into smaller parts"],[3,"Absorption","Nutrients enter the bloodstream"],[3,"Elimination","Removing waste from the body"],[3,"GI protection","Also guards against pathogens, toxins, nutrient deficiency"],[2,"Three systems together","Protect, regulate, nourish: a stable internal environment"]]],
+[3,"Urinary",[[3,"System interaction","Nervous senses change > muscles act, make motion and heat > kidneys conserve water, clear waste > homeostasis"]]],
+[3,"Skeletal and muscular",[[3,"Bone tissue","Living tissue; marrow makes blood cells"],[2,"Muscle types","Cardiac: pumps blood||Skeletal: moves bones||Smooth: moves food"],[3,"Contraction cycle use","Walking, lifting, running, breathing"],[3,"Anterior band","Part of elbow medial collateral ligament; keeps joint aligned"]]],
+[3,"Nervous",[[3,"Stimulus-response pathway","Receptor > sensory neuron > CNS > motor neuron > effector (muscle or gland)"],[3,"Brain role","Core of the CNS, command centre"],[3,"Spinal cord shield","Protected by the vertebral column"]]],
+[4,"Defence",[[2,"Why immunity matters","Prevents disease, helps wounds heal, protects by remembering pathogens"],[3,"Clinical link","Explains vaccine protection, immunodeficiency risk, effect of healthy habits"]]],
+[5,"Male",[[3,"Accessory glands","Seminal vesicles and prostate add fluid that nourishes and protects sperm"],[3,"Penis role","Delivers semen into the female tract"]]],
+[5,"Female",[[3,"Uterus","Hollow, pear-shaped muscle; embryo implants, fetus grows"],[3,"Ovary position","Paired oval glands either side of uterus"],[3,"Cervix and vagina","Link uterus to outside"],[2,"Why study it","Reproductive health, body care, pregnancy changes"]]],
+[6,"Variation",[[2,"Genetic example","Blood type A, AB, B, O: inherited"],[2,"Environmental example","Scar: from injury, not inherited"],[2,"Combined example","Height: genes plus nutrition and health"]]],
+[6,"Selection",[[2,"In simple terms","Helpful traits > better survival > more reproduction > traits common"],[3,"Heredity","Some traits pass from parents to offspring"],[3,"Competition","For food, water, shelter, mates"]]],
+[6,"Mutation",[[2,"DNA shows in traits","What DNA encodes appears in characteristics"],[3,"Parental share","Each parent gives about half of a child’s DNA"],[3,"In-frame indel","Insertion or deletion of a multiple of 3 bases keeps the frame"]]]
+];
